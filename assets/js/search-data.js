@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-a-meticulous-guide-to-performance-measurement-analysis-and-modeling-in-ml-systems",
+        
+          title: "A Meticulous Guide to Performance Measurement, Analysis, and Modeling in ML Systems",
+        
+        description: "A literature review and guide to the evolution of performance analysis tools, from foundational profilers to advanced trace-driven simulators for large-scale ML systems.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/profilers-ml/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
